@@ -1,7 +1,18 @@
 # Hi, I'm Abhishek 👋  
 ### Architect | Full-Stack Developer | Cloud Enthusiast  
 
-Welcome to my GitHub profile! With over **16 years of experience in software development**, I specialize in designing, building, and deploying scalable and secure applications for diverse industries. Here's a snapshot of what I bring to the table:
+Welcome to my GitHub profile! With over **16 years of extensive experience in software development**, I have honed my expertise in **designing, building, and deploying scalable, secure, and high-performing applications** across various industries.  
+
+Throughout my career, I have worked in dynamic roles ranging from **developer** to **technology lead** and now as an **architect**, consistently delivering robust solutions for complex business challenges. My passion lies in crafting seamless end-to-end systems, mentoring teams, and optimizing applications to meet the ever-changing demands of the modern tech landscape.  
+
+Here's a glimpse of what I bring to the table:  
+- Proficiency in **full-stack development**, spanning frontend, backend, and database design.  
+- Expertise in **cloud-native architecture**, leveraging **Azure** and containerized deployments with **Kubernetes** and **Docker**.  
+- A deep understanding of **microservices architecture**, enabling scalability and maintainability for enterprise-grade solutions.  
+- Strong focus on **DevOps practices**, automating CI/CD pipelines using **Azure DevOps** and **GitHub Actions**.  
+- Proven ability to enhance **application availability, security, and performance** through efficient architectural strategies.  
+
+Explore my repositories and projects to see how I turn ideas into impactful solutions. Let’s connect and create something amazing together! 🌟  
 
 ---
 
@@ -54,9 +65,9 @@ Welcome to my GitHub profile! With over **16 years of experience in software dev
 ---
 
 ## 📫 Get in Touch  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **Email:** [Your Email Address](#)  
-- **Portfolio:** [Your Portfolio URL](#)  
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/skabhishek/)  
+- **Email:** [Email Address](sk.abhishek@hotmail.com)  
+- **Portfolio:** [Portfolio URL](#)  
 
 ---
 
