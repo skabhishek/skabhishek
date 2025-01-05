@@ -12,7 +12,7 @@ Here's a glimpse of what I bring to the table:
 - Strong focus on **DevOps practices**, automating CI/CD pipelines using **Azure DevOps** and **GitHub Actions**.  
 - Proven ability to enhance **application availability, security, and performance** through efficient architectural strategies.  
 
-Explore my repositories and projects to see how I turn ideas into impactful solutions. Let’s connect and create something amazing together! 🌟  
+Explore my repositories and projects to see how I turn ideas into impactful solutions. 🌟  
 
 ---
 
@@ -59,8 +59,9 @@ Explore my repositories and projects to see how I turn ideas into impactful solu
 ---
 
 ## 🌱 Current Focus  
-- Enhancing my expertise in **AI and Machine Learning**.  
+- Enhancing my expertise in **Data Engineering** , **AI and Machine Learning**.  
 - Exploring advanced DevOps practices and optimizing application performance further.
+- 
 
 ---
 
@@ -71,4 +72,4 @@ Explore my repositories and projects to see how I turn ideas into impactful solu
 
 ---
 
-Let's connect and collaborate on innovative projects! 🚀  
+Collaborating on innovative projects! 🚀  
