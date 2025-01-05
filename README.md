@@ -1,7 +1,7 @@
-# Hi, I'm Abhishek 👋  
+# Abhishek Singh 👋  
 ### Architect | Full-Stack Developer | Cloud Enthusiast  
 
-Welcome to my GitHub profile! With over **16 years of extensive experience in software development**, I have honed my expertise in **designing, building, and deploying scalable, secure, and high-performing applications** across various industries.  
+With over **16 years of extensive experience in software development**, I have honed my expertise in **designing, building, and deploying scalable, secure, and high-performing applications** across various industries.  
 
 Throughout my career, I have worked in dynamic roles ranging from **developer** to **technology lead** and now as an **architect**, consistently delivering robust solutions for complex business challenges. My passion lies in crafting seamless end-to-end systems, mentoring teams, and optimizing applications to meet the ever-changing demands of the modern tech landscape.  
 
