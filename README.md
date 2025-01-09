@@ -18,13 +18,19 @@ Explore my repositories and projects to see how I turn ideas into impactful solu
 
 ## 🛠️ Technical Expertise  
 ### **Frontend Development:**  
-- Building responsive, modern web applications using **ReactJS**.  
-- Expertise in crafting intuitive user interfaces and seamless user experiences.  
+- Proficient in building responsive, modern web applications using ReactJS, with a focus on crafting intuitive user interfaces and seamless user experiences.
+- Skilled in web technologies, including HTML, CSS, SASS, and JavaScript, ensuring clean, maintainable, and accessible code.
+- Experience converting Figma designs into highly accurate, reusable React components.
+- Hands-on experience with styled-system and styled-components for creating scalable and themeable design systems.
+- Expertise in React Native for building cross-platform mobile applications with a native feel.
+- Familiar with Angular for developing dynamic, feature-rich web applications.
+- Adept at leveraging modern development tools and frameworks to deliver high-quality frontends that perform consistently across all devices and platforms.  
 
 ### **Backend Development:**  
-- Strong experience with **ASP.NET Core** and **Node.js** for building REST APIs and Microservices.  
-- Proficient in **SQL Server** and **PostgreSQL** for database design and performance optimization.  
-
+- Strong experience in building REST APIs and Microservices using **ASP.NET Core**, **Node.js (Express)**, and **Python (Flask)**.
+- Proficient in working with a variety of databases, including **SQL Server**, **PostgreSQL**, **MongoDB**, **CosmosDB**, **SQLite**, and **MySQL**, with a focus on database design and performance optimization.
+- Expertise in designing and implementing scalable and maintainable microservices architectures.
+- Skilled in integrating backend services with modern frontend frameworks to deliver end-to-end solutions.
 ### **Cloud & DevOps:**  
 - **Azure Expertise:**  
   - End-to-end deployment in **Azure**, including conventional, serverless, and containerized architectures.  
