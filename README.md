@@ -72,10 +72,8 @@ Explore my repositories and projects to see how I turn ideas into impactful solu
 ---
 
 ## 📫 Get in Touch  
-- **LinkedIn:** [/in/skabhishek/](https://www.linkedin.com/in/skabhishek/)  
 - **Email:** [sk.abhishek@hotmail.com](sk.abhishek@hotmail.com)  
-- **Stackoverflow:** [17533262/abhishek-singh](https://stackoverflow.com/users/17533262/abhishek-singh)  
-
+- **Stackoverflow:** [17533262/abhishek-singh](https://stackoverflow.com/users/17533262/abhishek-singh)
 ---
 
 Collaborating on innovative projects! 🚀  
