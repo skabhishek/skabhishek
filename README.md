@@ -1,79 +1,306 @@
-# Abhishek Singh 👋  
-### Architect | Full-Stack Developer | Cloud Enthusiast  
+# Abhishek Singh
 
-With over **16 years of extensive experience in software development**, I have honed my expertise in **designing, building, and deploying scalable, secure, and high-performing applications** across various industries.  
+### Cloud & AI Solution Architect | ASP.NET Core, Azure PaaS, Node.js & React | API Security, GenAI/RAG, AI Agents & Microsoft Fabric
 
-Throughout my career, I have worked in dynamic roles ranging from **developer** to **technology lead** and now as an **architect**, consistently delivering robust solutions for complex business challenges. My passion lies in crafting seamless end-to-end systems, mentoring teams, and optimizing applications to meet the ever-changing demands of the modern tech landscape.  
+I am a software architect and hands-on engineering leader with **17+ years of experience** designing, building, modernizing, and supporting enterprise applications, SaaS platforms, cloud-native systems, secure API ecosystems, and AI-enabled business solutions.
 
-Here's a glimpse of what I bring to the table:  
-- Proficiency in **full-stack development**, spanning frontend, backend, and database design.  
-- Expertise in **cloud-native architecture**, leveraging **Azure** and containerized deployments with **Kubernetes** and **Docker**.  
-- A deep understanding of **microservices architecture**, enabling scalability and maintainability for enterprise-grade solutions.  
-- Strong focus on **DevOps practices**, automating CI/CD pipelines using **Azure DevOps** and **GitHub Actions**.  
-- Proven ability to enhance **application availability, security, and performance** through efficient architectural strategies.  
+My core strength is bringing together **enterprise backend engineering**, **Azure cloud architecture**, **API security**, **DevOps automation**, **frontend delivery**, **GenAI/RAG**, **AI agent workflows**, and **data engineering** to build practical, production-ready systems that solve real business problems.
 
-Explore my repositories and projects to see how I turn ideas into impactful solutions. 🌟  
+I have worked across roles from developer to technical lead and architect, delivering systems using **ASP.NET Core, Node.js, React, Next.js, SQL Server, PostgreSQL, Azure PaaS, Azure DevOps, Microsoft Fabric, Azure AI Foundry, Azure OpenAI, Azure AI Search, Semantic Kernel, LangChain, and LangGraph**.
+
+My current focus is on **enterprise AI systems**: RAG-based knowledge assistants, business-line AI agents, state-machine-driven workflows, secure tool-calling agents, Microsoft Fabric/Lakehouse data engineering, and Azure-native AI application architecture.
 
 ---
 
-## 🛠️ Technical Expertise  
-### **Frontend Development:**  
-- Proficient in building responsive, modern web applications using ReactJS, with a focus on crafting intuitive user interfaces and seamless user experiences.
-- Skilled in web technologies, including HTML, CSS, SASS, and JavaScript, ensuring clean, maintainable, and accessible code.
-- Experience converting Figma designs into highly accurate, reusable React components.
-- Hands-on experience with styled-system and styled-components for creating scalable and themeable design systems.
-- Expertise in React Native for building cross-platform mobile applications with a native feel.
-- Familiar with Angular for developing dynamic, feature-rich web applications.
-- Adept at leveraging modern development tools and frameworks to deliver high-quality frontends that perform consistently across all devices and platforms.  
+## What I Do
 
-### **Backend Development:**  
-- Strong experience in building REST APIs and Microservices using **ASP.NET Core**, **Node.js (Express)**, and **Python (Flask)**.
-- Proficient in working with a variety of databases, including **SQL Server**, **PostgreSQL**, **MongoDB**, **CosmosDB**, **SQLite**, and **MySQL**, with a focus on database design and performance optimization.
-- Expertise in designing and implementing scalable and maintainable microservices architectures.
-- Skilled in integrating backend services with modern frontend frameworks to deliver end-to-end solutions.
-### **Cloud & DevOps:**  
-- **Azure Expertise:**  
-  - End-to-end deployment in **Azure**, including conventional, serverless, and containerized architectures.  
-  - Hands-on experience with **Azure DevOps** for automating CI/CD pipelines.  
-- **GitHub Workflows:** Automating integration and deployment processes with best practices.  
-- Experienced in deploying and managing applications on **Kubernetes**.  
-
-### **Architectural Design:**  
-- Designing and architecting **large-scale production applications**.  
-- Optimizing applications for **availability**, **security**, and **scalability**.  
-- Expertise in **microservices architecture** and high-performance REST APIs.  
+* Design and modernize **enterprise cloud applications** on Microsoft Azure
+* Architect **multi-tenant SaaS platforms** with secure tenant isolation
+* Build **API-first backend systems** using ASP.NET Core, Node.js, Express, and Python/FastAPI
+* Develop **React / Next.js frontend applications** for enterprise and SaaS products
+* Design **secure API ecosystems** with OAuth2, OpenID Connect, JWT, RBAC, Entra ID, and identity integration
+* Implement **CI/CD pipelines**, DevOps automation, release workflows, and production monitoring
+* Build **GenAI/RAG applications** using Azure AI Foundry, Azure OpenAI, embeddings, Azure AI Search, and vector search
+* Design **AI agent workflows** for business-line automation using Semantic Kernel, LangChain, and LangGraph
+* Build **state-machine-based AI workflows** for predictable, auditable, multi-step business processes
+* Work on **Microsoft Fabric, Lakehouse, Data Lake, PySpark, and reporting workflows**
+* Support architecture reviews, cloud cost optimization, production stabilization, troubleshooting, and technical consulting
 
 ---
 
-## 🌟 Professional Highlights  
-- **Mentorship:** Successfully mentored cross-functional teams and guided large development teams to achieve project goals.  
-- **Full-Stack Development:**  
-  - Ability to handle the entire development lifecycle, from ideation to deployment.  
-  - Proficiency in integrating backend and frontend systems for robust solutions.  
-- **Deployment Strategies:** Deep understanding of deploying applications across various environments, including **containers**, **serverless platforms**, and **traditional cloud infrastructure**.  
-- **Automation:** Adept at automating deployment pipelines and adhering to **coding standards** to ensure streamlined delivery.  
+## Current Focus
+
+I am currently focused on building and strengthening enterprise-grade capability in:
+
+* **GenAI / RAG applications** for enterprise knowledge search and assisted decision-making
+* **AI agent creation** for sales, support, operations, reporting, internal workflow automation, and business-line productivity
+* **State-machine-driven agent workflows** where each step has clear input, output, validation, retry, escalation, and approval handling
+* **Tool-calling agents** that can interact with APIs, databases, documents, knowledge bases, and enterprise systems
+* **Semantic Kernel, LangChain, and LangGraph** for agent orchestration, planner-executor workflows, tool routing, memory, and controlled execution
+* **Human-in-the-loop patterns** for sensitive actions such as email generation, ticket updates, reporting, approvals, and business workflow execution
+* **Azure AI Foundry, Azure OpenAI, Azure AI Search, embeddings, vector search, and RAG architecture**
+* **Python FastAPI** for AI orchestration services and backend AI microservices
+* **Microsoft Fabric, Data Lake, Lakehouse, Bronze/Silver/Gold layers, and PySpark-based transformations**
+* **Secure cloud-native architecture** for AI-enabled enterprise systems
 
 ---
 
-## 🌐 Skills & Tools  
-- **Programming Languages:** C#, JavaScript/TypeScript, SQL, Python.  
-- **Frameworks & Libraries:** ReactJS, Node.js, ASP.NET Core.  
-- **Cloud & DevOps Tools:** Azure, Azure DevOps, GitHub Actions, Kubernetes, Docker.  
-- **Databases:** SQL Server, PostgreSQL.  
-- **Architecture:** REST APIs, Microservices, Serverless Architecture.  
+## Featured Engineering Areas
+
+### Cloud & Architecture
+
+* Azure PaaS
+* Azure App Service
+* Azure Functions
+* Azure SQL
+* Azure Storage
+* Azure Service Bus
+* Azure Key Vault
+* Azure Monitor / Application Insights
+* Azure DevOps
+* Pulumi / Infrastructure as Code
+* Multi-tenant SaaS architecture
+* API-first architecture
+* Microservices and event-driven systems
+* Cloud cost optimization
+* Dev, UAT, and Production environment design
+* Production support and platform stabilization
+
+### AI, GenAI, RAG & Agentic Systems
+
+* Azure AI Foundry
+* Azure OpenAI
+* GPT-4o / GPT-4o-mini
+* Retrieval-Augmented Generation
+* Embeddings
+* Azure AI Search
+* Vector Search
+* Prompt Engineering
+* Semantic Kernel
+* LangChain
+* LangGraph
+* AI agent orchestration
+* Business-line AI agents
+* Tool-calling workflows
+* Planner-executor patterns
+* State-machine-based AI workflows
+* Human-in-the-loop approval
+* Agent memory and workflow state management
+* RAG-powered agents
+* Private / on-prem AI architecture
+* Llama model workflows
+* QLoRA tuning workflows
+* Audio/video-to-text data preparation
+* JSONL dataset preparation
+
+### Backend & API Engineering
+
+* ASP.NET Core
+* C#
+* Web API
+* Entity Framework
+* Node.js
+* Express.js
+* Python / FastAPI
+* REST APIs
+* GraphQL
+* OAuth2 / OIDC
+* JWT
+* API Security
+* RBAC
+* Clean Architecture
+* CQRS
+* Domain-Driven Design
+* Backend-for-Frontend
+* Integration architecture
+* Secure backend platform design
+
+### Frontend Engineering
+
+* React.js
+* Next.js
+* JavaScript / TypeScript
+* React Native
+* HTML / CSS / SASS
+* Component-based UI development
+* Enterprise dashboard and admin UI development
+* API integration and frontend architecture
+* SaaS product UI development
+
+### Data & Databases
+
+* SQL Server
+* Azure SQL
+* PostgreSQL
+* MongoDB
+* Cosmos DB
+* Microsoft Fabric
+* Data Lake / Lakehouse
+* Bronze / Silver / Gold data layers
+* PySpark transformations
+* Reporting data models
+* BOM reporting
+* Query optimization
+* Data ingestion and transformation workflows
+
+### DevOps & Platform
+
+* Azure DevOps
+* GitHub Actions
+* CI/CD pipelines
+* Docker
+* Kubernetes / AKS
+* Azure Container Registry
+* Release automation
+* Environment configuration
+* Monitoring and logging
+* Production support
+* Secure deployment practices
+* Infrastructure troubleshooting
 
 ---
 
-## 🌱 Current Focus  
-- Enhancing my expertise in **Data Engineering** , **AI and Machine Learning**.  
-- Exploring advanced DevOps practices and optimizing application performance further.
-- 
+## Recent Work & Projects
+
+### Enterprise GenAI / RAG Knowledge Assistant
+
+Building an enterprise-style GenAI application using **Next.js, Node.js, Express.js, Azure AI Foundry, Azure OpenAI, Azure AI Search, embeddings, PostgreSQL, RAG, and vector search**.
+
+Key areas:
+
+* LLM-based chat interaction using Azure AI model deployment
+* Chat history storage in PostgreSQL
+* Embedding generation and Azure AI Search integration
+* RAG flow for grounded enterprise knowledge answers
+* Source-aware retrieval and response generation
+* Modular architecture for Python FastAPI-based AI orchestration
+* Roadmap toward business-line AI agents, tool calling, and workflow automation
 
 ---
 
-## 📫 Get in Touch  
-- **Email:** [sk.abhishek@hotmail.com](sk.abhishek@hotmail.com)  
-- **Stackoverflow:** [17533262/abhishek-singh](https://stackoverflow.com/users/17533262/abhishek-singh)
+### Business-Line AI Agent Workflows
+
+Designing agentic AI workflows for business processes where AI systems do more than answer questions — they retrieve context, reason through tasks, call tools, follow workflow states, and support controlled execution.
+
+Key areas:
+
+* Business-line AI agents for sales, support, operations, reporting, and internal automation
+* State-machine-based workflow orchestration for predictable multi-step execution
+* Semantic Kernel, LangChain, and LangGraph-based agent design
+* Tool-calling agents for APIs, databases, documents, and knowledge systems
+* RAG-powered agents that retrieve trusted enterprise context before responding or acting
+* Human approval before sensitive actions such as sending emails, updating records, generating reports, or triggering workflow steps
+* Audit logging, validation, retry handling, guardrails, and workflow recovery
+* Secure, observable, cost-aware agent architecture for enterprise adoption
+
 ---
 
-Collaborating on innovative projects! 🚀  
+### Microsoft Fabric Data Engineering & BOM Reporting
+
+Worked on a Microsoft Fabric-based data engineering and reporting workstream involving **SQL Server ingestion, Lakehouse, Data Lake, PySpark, Bronze/Silver/Gold layers, and BOM reporting**.
+
+Key areas:
+
+* Data movement from SQL Server source systems
+* Lakehouse-based data organization
+* Bronze, Silver, and Gold layer design
+* PySpark transformation workflow
+* Reporting-focused data preparation
+* BOM explosion reporting logic and hierarchical data understanding
+
+---
+
+### Private / On-Prem AI Infrastructure POC
+
+Contributed to a private AI infrastructure POC focused on **open-source LLMs, Llama models, LangChain, QLoRA workflows, Azure ML Workspace, audio/video-to-text processing, JSONL data preparation, and private AI deployment patterns**.
+
+Key areas:
+
+* Private/on-prem AI architecture
+* Open-source LLM workflow understanding
+* Audio/video transcription to text-based datasets
+* Dataset preparation for fine-tuning or knowledge ingestion
+* Azure ML Workspace-based experimentation flow
+* Data privacy and offline AI deployment considerations
+
+---
+
+### Imdex Kentico Xperience 13 Azure Platform
+
+Worked on an Azure-hosted **Kentico Xperience 13** platform for a global mining technology customer. The platform supported CMS Admin, public marketing website, contact forms, content workflows, and business-facing web content.
+
+Key areas:
+
+* Dev, UAT, and Production environment understanding
+* Azure App Service, Azure SQL, Azure Storage, and DevOps pipeline support
+* Pulumi Infrastructure as Code deployment flow
+* CMS Admin and public site support
+* Hotfix / upgrade planning
+* Production support transition after previous vendor exit
+
+---
+
+### Multi-Tenant Subscription-Based E-Commerce Platform
+
+Architected and supported a SaaS-based e-commerce platform for a US-based dental equipment supplier using **ASP.NET Core, React, Azure App Service, Azure Functions, Azure SQL, and Azure DevOps**.
+
+Key areas:
+
+* Multi-tenant architecture
+* React frontend and ASP.NET Core API backend
+* Azure DevOps CI/CD pipelines
+* Supplier and clinic workflows
+* Production support and cloud cost optimization
+
+---
+
+## How I Think About Architecture
+
+Good architecture is not only about drawing boxes.
+
+For me, architecture means:
+
+* Understanding the business problem clearly
+* Choosing simple, maintainable technical patterns
+* Designing for security, scale, cost, and operations
+* Keeping delivery realistic for the team
+* Avoiding unnecessary complexity
+* Making systems easier to support after go-live
+* Building systems that can evolve without becoming fragile
+* Designing AI workflows that are useful, auditable, secure, and controlled
+
+I prefer practical architecture that teams can actually build, deploy, troubleshoot, operate, and improve.
+
+---
+
+## Open To
+
+I am open to opportunities and consulting discussions around:
+
+* Cloud & AI Solution Architecture
+* Azure architecture and modernization
+* GenAI / RAG application development
+* AI agent design for business workflows
+* Business-line AI automation
+* Semantic Kernel, LangChain, and LangGraph-based agent orchestration
+* State-machine-based workflow automation
+* RAG-powered agents and tool-calling workflows
+* Enterprise AI integration
+* SaaS product architecture
+* Backend/API architecture
+* API security and identity integration
+* Microsoft Fabric and data engineering workstreams
+* DevOps automation and production stabilization
+* Cloud cost optimization
+
+---
+
+## Contact
+
+* **Email:** [as.abhishek@gmail.com](mailto:as.abhishek@gmail.com)
+* **Stack Overflow:** [Abhishek Singh](https://stackoverflow.com/users/17533262/abhishek-singh)
+* **LinkedIn:** [Abhishek Singh](https://linkedin.com/in/skabhishek)
+
+---
+
+Thanks for visiting my profile. If you are building something around **Azure, SaaS, AI integration, RAG, AI agents, data platforms, secure APIs, Microsoft Fabric, or cloud modernization**, I would be happy to connect.
