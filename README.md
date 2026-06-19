@@ -273,34 +273,9 @@ I prefer practical architecture that teams can actually build, deploy, troublesh
 
 ---
 
-## Open To
-
-I am open to opportunities and consulting discussions around:
-
-* Cloud & AI Solution Architecture
-* Azure architecture and modernization
-* GenAI / RAG application development
-* AI agent design for business workflows
-* Business-line AI automation
-* Semantic Kernel, LangChain, and LangGraph-based agent orchestration
-* State-machine-based workflow automation
-* RAG-powered agents and tool-calling workflows
-* Enterprise AI integration
-* SaaS product architecture
-* Backend/API architecture
-* API security and identity integration
-* Microsoft Fabric and data engineering workstreams
-* DevOps automation and production stabilization
-* Cloud cost optimization
-
----
-
 ## Contact
 
 * **Email:** [as.abhishek@gmail.com](mailto:as.abhishek@gmail.com)
 * **Stack Overflow:** [Abhishek Singh](https://stackoverflow.com/users/17533262/abhishek-singh)
 * **LinkedIn:** [Abhishek Singh](https://linkedin.com/in/skabhishek)
 
----
-
-Thanks for visiting my profile. If you are building something around **Azure, SaaS, AI integration, RAG, AI agents, data platforms, secure APIs, Microsoft Fabric, or cloud modernization**, I would be happy to connect.
